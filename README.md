@@ -1,0 +1,1 @@
+Pour utiliser la base de données, on remplace 'NUMETU' dans 'index.php' par un numéro étudiant.
